@@ -10,7 +10,7 @@ if (startButton) {
 
     content.innerHTML = `
       <button onclick="goToPirate()">Yes.</button>
-      <button onclick="goToPirate()">YES but in caps because you have no other option mwaah</button>
+      <button onclick="goToPirate()">YES, but in caps because you have no other option mwaah</button>
     `;
   });
 }
